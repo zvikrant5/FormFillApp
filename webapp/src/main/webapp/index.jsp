@@ -9,6 +9,10 @@
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
+    <label for="PAN No"><b>PAN No</b></label>
+    <input type="text" placeholder="Enter PAN Name" name="PAN No" id="PAN No" required>
+    <br>
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
