@@ -13,6 +13,10 @@
     <input type="text" placeholder="Enter PAN Name" name="PAN No" id="PAN No" required>
     <br>
 
+    <label for="dob"><b>DOB</b></label>
+    <input type="text" placeholder="Enter DOB Name" name="dob" id="DOB" required>
+    <br>
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
