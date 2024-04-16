@@ -5,8 +5,8 @@
     <hr>
     <br>
     
-    <label for="name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Name" name="name" id="name" required>
+    <label for="full_name"><b>Full_Name</b></label>
+    <input type="text" placeholder="Enter Full Name" name="full_name" id="full_name" required>
     <br>
 
     <label for="PAN No"><b>PAN No</b></label>
